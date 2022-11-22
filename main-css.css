@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    padding: 0;
+
+    background: url(https://cdn.discordapp.com/attachments/1010959692450770994/1044654048424505384/baloons_start_page.jpg);
+}
+
+.container {
+    background: pink;
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    width: 40%;
+}
+
+@media(max-width: 600px){
+    .container {
+        width: 100%;
+    }
+}

@@ -1,0 +1,21 @@
+
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    height: 100vh;
+}
+
+.container {
+    height: 50%;
+}
+
+.container h1{
+    color: blue;
+}
+
+.container a {
+    color: black;
+    font-size: 50px;
+}
