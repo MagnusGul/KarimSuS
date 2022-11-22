@@ -16,6 +16,6 @@ $('button').on('click', function () {
         $('button').html('<b> Следующий ♂️Карим♂️ </b>')
 })
 
-if (counter == 10) {
+if (counter == 9) {
     $('.container').html('<h1>Спасибо за возбуждение</h1>')
 }
